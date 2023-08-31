@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jun</h1>
-<h3 align="center">Fullstack developer based in Tokyo</h3>
+<h3 align="center">Web developer based in Tokyo</h3>
 
 - 🌱 I’m currently learning **data structure and algorithms**
 
