@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jun</h1>
-<h3 align="center">Fullstack developer based in Tokyo</h3>
+<h3 align="center">Software Engineer based in Tokyo</h3>
 
-- 🌱 I’m currently learning **Data structure and algorithms**
-
-- 👨‍💻 All of my projects are available at [https://jun-ukemori.me/](https://jun-ukemori.me/)
+- 👨‍💻 My website: [https://www.jun-ukemori.com](https://www.jun-ukemori.com)
 
 - 📝 I regularly write articles on [https://medium.com/@jukemori](https://medium.com/@jukemori)
 
